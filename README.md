@@ -6,7 +6,8 @@ My favorite hobbies include traveling, reading, and enjoying sushi (I could actu
 
 - 🌱 I’m currently learning subjects related to artificial intelligence and cloud technology.
 
-- 🔭 If you are curious about my work, I invite you to visit my repositories. There, you will find various lab projects focused on Python, pandas, and machine learning, developed as part of my studies at Ironhack, alongside my final project.  Additionally, different sprints from my participation in the IT Academy's Data Analytics Specialization. I also contributed to the WIDS 2025 datathon, aimed to established a model capable of detecting ADHD in women.  You can review my final project from the Code Girls Data and SQL course, which involved developing a SQL model and database utilizing advanced functions.
+- 🔭 If you are curious about my work, I invite you to visit my repositories.
+There, you will find various lab projects focused on Python, pandas, and machine learning, developed as part of my studies at Ironhack, alongside my final project.  Additionally, different sprints from my participation in the IT Academy's Data Analytics Specialization. I also contributed to the WIDS 2025 datathon, aimed to established a model capable of detecting ADHD in women.  You can review my final project from the Code First Girls, Data and SQL course, which involved developing a SQL model and database utilizing advanced functions.
 
 - 📫 How to reach me: Find me on [Linkedin](https://www.linkedin.com/in/cristinaolmo/) or email me: cristina.olmop@gmail.com
 
