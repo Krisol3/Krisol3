@@ -22,7 +22,8 @@ My toolkit includes:
 - Bachelor in Advertising and PR: Universitat Oberta de Cataluny, Spain
 
 🔎 Courses:
-- Certificate in Data Analytics and Machine Learning, Ironhack. 
+- Certificate in Data Analytics and Machine Learning, Ironhack.
+- Certificado de Reskilling en Análisis de datos, IT Academy (510h). 
 - Certificado de Análisis de Datos con PowerBi, EureCat Academy.
 - Certificate in Data&SQL, CodeFirstGirls.
 - Certificado de Introducción a la programación en HTML5 y CSS3, CodeOp.
